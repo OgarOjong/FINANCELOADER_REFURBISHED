@@ -1,0 +1,15 @@
+{2023-09-11 12:28:30:2830: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:3e3fe83b-4a1b-47a3-bcae-0b75ab90940c|SBT}
+{2023-09-11 12:28:30:2830: info: initiator:OJONG--Amount:--Info:Refill request submitted Successfully.--true}
+{2023-09-11 12:28:30:2830: info: updated:--Channel:covalence--CustomerID:210002285--Updater:OJONG--Amount:}
+{2023-09-11 15:00:56:056: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:84a24c6b-20a5-473e-9745-00dc85081973|SBT}
+{2023-09-11 15:00:56:056: info: initiator:OJONG--Amount:--Info:Refill request submitted Successfully.--true}
+{2023-09-11 15:00:56:056: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:}
+{2023-09-11 15:02:55:255: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:ec6cda2a-68ab-4302-9961-495f3c6040b4|SBT}
+{2023-09-11 15:02:56:256: info: initiator:OJONG--Amount:--Info:Refill request submitted Successfully.--true}
+{2023-09-11 15:02:56:256: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:}
+{2023-09-11 15:08:58:858: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:a9fd52da-4152-483b-b590-9f7d1f2a5e26|SBT}
+{2023-09-11 15:08:58:858: info: initiator:OJONG--Amount:--Info:Refill request submitted Successfully.--true}
+{2023-09-11 15:08:58:858: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:}
+{2023-09-11 15:55:54:5554: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:4580991b-7578-402c-ba0a-08933c87f85f|SBT}
+{2023-09-11 15:55:54:5554: info: initiator:OJONG--Amount:650000--Info:Refill request submitted Successfully.--true}
+{2023-09-11 15:55:54:5554: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:650000}

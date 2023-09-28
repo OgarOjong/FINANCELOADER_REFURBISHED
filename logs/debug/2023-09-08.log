@@ -1,0 +1,8 @@
+{2023-09-08 15:33:20:3320: error: update error: ReferenceError: success is not defined}
+{2023-09-08 15:40:24:4024: error: update error: TypeError: logger.info is not a function}
+{2023-09-08 15:44:42:4442: info: PaymentLog- Status--true--SuccessInfo---Refill request already submitted successfully.}
+{2023-09-08 15:44:42:4442: info: initiator:OJONG--Amount:1000--Info:Refill request already submitted successfully.--true}
+{2023-09-08 15:44:42:4442: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:1000}
+{2023-09-08 15:47:26:4726: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.---PaymentRef--3609cc83-eb95-4d06-a6e7-753f3da768c4|SBT}
+{2023-09-08 15:47:26:4726: info: initiator:OJONG--Amount:7500--Info:Refill request submitted Successfully.--true}
+{2023-09-08 15:47:26:4726: info: updated:--Channel:covalence--CustomerID:210002285--Updater:OJONG--Amount:7500}

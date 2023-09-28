@@ -1,0 +1,2 @@
+{2023-09-08 15:33:20:3320: error: update error: ReferenceError: success is not defined}
+{2023-09-08 15:40:24:4024: error: update error: TypeError: logger.info is not a function}

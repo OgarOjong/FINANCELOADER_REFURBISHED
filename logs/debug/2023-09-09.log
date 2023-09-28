@@ -1,0 +1,14 @@
+{2023-09-09 10:04:22:422: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:437044cd-dac5-4206-8771-597e18078d87|SBT}
+{2023-09-09 10:04:22:422: info: initiator:OJONG--Amount:NGN 1000.00--Info:Refill request submitted Successfully.--true}
+{2023-09-09 10:04:22:422: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:NGN 1000.00}
+{2023-09-09 10:08:30:830: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:1934551e-dc47-402e-aac9-09dcb55bddbb|SBT}
+{2023-09-09 10:08:30:830: info: initiator:OJONG--Amount:NGN 11999.00--Info:Refill request submitted Successfully.--true}
+{2023-09-09 10:08:30:830: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:NGN 11999.00}
+{2023-09-09 10:11:34:1134: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:4df07afc-9b27-4a10-9de9-afb99193fa58|SBT}
+{2023-09-09 10:11:34:1134: info: initiator:OJONG--Amount:NGN 18000.00--Info:Refill request submitted Successfully.--true}
+{2023-09-09 10:11:34:1134: info: updated:--Channel:covalence--CustomerID:210002605--Updater:OJONG--Amount:NGN 18000.00}
+{2023-09-09 17:32:14:3214: info: PaymentLog- Status--true--SuccessInfo---Refill request submitted Successfully.--PaymentRef--:34d66627-224a-4f3d-b981-9cfecc91745b|SBT}
+{2023-09-09 17:32:14:3214: info: initiator:OJONG--Amount:2000000--Info:Refill request submitted Successfully.--true}
+{2023-09-09 17:32:14:3214: info: updated:--Channel:covalence--CustomerID:210002285--Updater:OJONG--Amount:2000000}
+{2023-09-09 17:46:55:4655: error: getaddrinfo ENOTFOUND middleware.spectranet.com.ng}
+{2023-09-09 17:46:55:4655: error: Cannot read properties of undefined (reading 'tokenType')}

@@ -1,0 +1,38 @@
+{2023-09-02 00:45:17:4517: info: initiator:ojongemmanuel95@gmail.com--errorInfo:INVALID_USERNAME:User with provided username does not exist.--false}
+{2023-09-02 00:49:27:4927: info: initiator:ojongemmanuel95@gmail.com--errorInfo:INVALID_USERNAME:User with provided username does not exist.--false}
+{2023-09-02 00:56:07:567: info: initiator:ojongemmanuel95@gmail.com--errorInfo:JSON parse error: Cannot deserialize instance of `double` out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `double` out of START_OBJECT token
+ at [Source: (PushbackInputStream); line: 1, column: 36] (through reference chain: com.spectranet.middleware.payment.pushpayment.PushPayment["amount"])--false}
+{2023-09-02 00:58:18:5818: info: initiator:ojongemmanuel95@gmail.com--errorInfo:INVALID_USERNAME:User with provided username does not exist.--false}
+{2023-09-02 01:02:59:259: info: initiator:ojongemmanuel95@gmail.com--errorInfo:OVER_PAYMENT:You are not permitted to post payment, as Amount is more than the allowed Post Payment Limit.--false}
+{2023-09-02 01:05:00:50: info: initiator:ojongemmanuel95@gmail.com--errorInfo:OVER_PAYMENT:You are not permitted to post payment, as Amount is more than the allowed Post Payment Limit.--false}
+{2023-09-02 01:05:19:519: info: initiator:ojongemmanuel95@gmail.com--errorInfo:OVER_PAYMENT:You are not permitted to post payment, as Amount is more than the allowed Post Payment Limit.--false}
+{2023-09-02 10:57:04:574: info: updated: covalence:210002605:ojongemmanuel95@gmail.com}
+{2023-09-02 11:57:56:5756: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 11:58:05:585: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 12:05:06:56: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 12:31:38:3138: info: updated: covalence_multiple:po_20:ojongemmanuel95@gmail.com}
+{2023-09-02 12:50:06:506: error: connect ETIMEDOUT 197.255.160.211:8084}
+{2023-09-02 12:50:06:506: error: Cannot read properties of undefined (reading 'tokenType')}
+{2023-09-02 12:50:52:5052: info: initiator:undefined--errorInfo:JSON parse error: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value
+ at [Source: (PushbackInputStream); line: 1, column: 32] (through reference chain: com.spectranet.middleware.payment.pushpayment.PushPayment["amount"])--false}
+{2023-09-02 12:51:06:516: info: initiator:ojongemmanuel95@gmail.com--errorInfo:JSON parse error: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value
+ at [Source: (PushbackInputStream); line: 1, column: 32] (through reference chain: com.spectranet.middleware.payment.pushpayment.PushPayment["amount"])--false}
+{2023-09-02 12:51:57:5157: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 12:51:57:5157: info: initiator:ojongemmanuel95@gmail.com--Info:Refill request submitted Successfully.--true}
+{2023-09-02 12:55:18:5518: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 12:55:18:5518: info: initiator:ojongemmanuel95@gmail.com--Info:Refill request submitted Successfully.--true}
+{2023-09-02 12:55:58:5558: info: initiator:ojongemmanuel95@gmail.com--errorInfo:JSON parse error: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value
+ at [Source: (PushbackInputStream); line: 1, column: 32] (through reference chain: com.spectranet.middleware.payment.pushpayment.PushPayment["amount"])--false}
+{2023-09-02 12:56:19:5619: info: initiator:ojongemmanuel95@gmail.com--errorInfo:JSON parse error: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `double` from String "GuaranteeTrustBank": not a valid Double value
+ at [Source: (PushbackInputStream); line: 1, column: 32] (through reference chain: com.spectranet.middleware.payment.pushpayment.PushPayment["amount"])--false}
+{2023-09-02 13:08:47:847: info: initiator:ojongemmanuel95@gmail.com--Info:Refill request submitted Successfully.--true}
+{2023-09-02 13:08:47:847: info: updated: covalence:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 13:09:11:911: info: updated: covalence_multiple:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 13:09:28:928: info: updated: Dealer:210002285:ojongemmanuel95@gmail.com}
+{2023-09-02 13:17:37:1737: info: initiator:undefined--Amount:29300--Info:Refill request submitted Successfully.--true}
+{2023-09-02 13:17:37:1737: info: updated:--Channel:covalence--CustomerID:210002285--Updater:undefined--Amount:NaN}
+{2023-09-02 14:47:22:4722: info: updated:--Channel:covalence--CustomerID:210002605--Updater:ojongemmanuel95@gmail.com--Amount:NaN}
+{2023-09-02 14:47:22:4722: info: initiator:ojongemmanuel95@gmail.com--Info:Refill request submitted Successfully.--true}
+{2023-09-02 15:28:23:2823: error: connect ETIMEDOUT 3.219.2.182:2522}
+{2023-09-02 16:20:44:2044: info: updated:--Channel:covalence--CustomerID:210002605--Updater:ojongemmanuel95@gmail.com--Amount:NaN}
+{2023-09-02 16:20:44:2044: info: initiator:ojongemmanuel95@gmail.com--Info:Refill request submitted Successfully.--true}

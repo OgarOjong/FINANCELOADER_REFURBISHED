@@ -1,0 +1,22 @@
+{2023-09-21 01:21:47:2147: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1702}
+{2023-09-21 01:21:47:2147: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1702}
+{2023-09-21 01:57:26:5726: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1702}
+{2023-09-21 01:57:26:5726: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1702}
+{2023-09-21 11:07:50:750: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 11:07:50:750: error: SMS ERROR-- ReferenceError: updateStatus is not defined}
+{2023-09-21 11:07:50:750: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 11:07:50:750: error: SMS ERROR-- ReferenceError: updateStatus is not defined}
+{2023-09-21 11:25:16:2516: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 11:25:16:2516: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 19:34:07:347: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 19:34:07:347: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:23:39:2339: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:23:39:2339: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:25:55:2555: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:25:55:2555: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:48:20:4820: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 20:48:20:4820: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 21:08:53:853: info: sms_sent_status-dealer-ABR444-OLIVE-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 21:08:53:853: error: SMS ERROR-- ReferenceError: ISODate is not defined}
+{2023-09-21 21:08:53:853: info: sms_sent_status-dealer-ABK159-CHIKALVIA-phoneNumber-2349036770533-status-1703|2349036770533}
+{2023-09-21 21:08:53:853: error: SMS ERROR-- ReferenceError: ISODate is not defined}

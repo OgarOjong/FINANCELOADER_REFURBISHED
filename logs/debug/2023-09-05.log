@@ -1,0 +1,9 @@
+{2023-09-05 13:00:22:022: info: initiator:ojongemmanuel95@gmail.com--Amount:301000--Info:Refill request submitted Successfully.--true}
+{2023-09-05 13:00:22:022: info: updated:--Channel:covalence--CustomerID:210002605--Updater:ojongemmanuel95@gmail.com--Amount:NaN}
+{2023-09-05 13:38:16:3816: info: updated:--Channel:covalence--CustomerID:210002285--Updater:Test Refurbished--Amount:NaN}
+{2023-09-05 13:38:16:3816: info: initiator:Test Refurbished--Info:Refill request submitted Successfully.--true}
+{2023-09-05 13:40:02:402: info: updated:--Channel:covalence--CustomerID:210002285--Updater:OJONG--Amount:NaN}
+{2023-09-05 13:40:02:402: info: initiator:OJONG--Info:Refill request submitted Successfully.--true}
+{2023-09-05 14:01:03:13: info: updated:--Channel:covalence--CustomerID:210002285--Updater:OJONG--Amount:NaN}
+{2023-09-05 14:01:03:13: info: initiator:OJONG--Info:Refill request submitted Successfully.--true}
+{2023-09-05 14:24:13:2413: info: updated:--Channel:Others--CustomerID:Mistake--Updater:OJONG--Amount:NaN}
